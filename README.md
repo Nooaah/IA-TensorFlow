@@ -27,3 +27,4 @@ python script.py
 
 ## License
 
+- [MIT](https://github.com/Nooaah/IA-TensorFlow/blob/main/LICENSE)
